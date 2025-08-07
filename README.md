@@ -53,7 +53,7 @@
 <p align="center">
   <a href="https://github.com/namnguyen2k1"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nam-nguyen-26b942231/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nanam133hg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:nanam133hg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
