@@ -16,6 +16,8 @@
 - 💼 Building production-ready applications with scalability, maintainability and team collaboration in mind
 - 💬 Always open to sharing knowledge and growing with the dev community
 
+![Nam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=namnguyen2k1&show_icons=true&theme=dark)
+
 ---
 
 ## 🧰 Tech Stack
@@ -23,6 +25,8 @@
 <p align="center">
   <img width="550px" src="https://skillicons.dev/icons?i=angular,nestjs,ts,js,vue,react,next,tailwind,scss,nodejs,postgres,mongodb,docker,git,github,gitlab,vscode,postman&perline=9" />
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namnguyen2k1&layout=compact&theme=dark)
 
 ---
 
