@@ -40,6 +40,14 @@
 - 🚀 Built-in features: Authentication, State Management, Theming
 - 📦 Pre-integrated libraries: TailwindCSS, Prettier, ESLint, Husky
 
+### 🚀 [NestJS Bootstrap Boilerplate](https://github.com/namnguyen2k1/nest-bootstrap-boilerplate)
+
+> Kickstart your NestJS project with production-ready best practices, scalable architecture, and essential integrations – perfect for small to medium teams.
+
+✅ Clean architecture with modular separation
+🔐 Built-in features: Authentication (JWT, Refresh Token, 2FA), Authorization (Role & Permission), Caching, Queue, Scheduling
+📦 Pre-integrated libraries & tooling: Mongoose, BullMQ, Redis, Swagger, Day.js, Prettier, ESLint, ...
+
 ---
 
 ## 📚 Knowledge Base & Contributions
