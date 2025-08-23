@@ -43,7 +43,7 @@
 - Clean architecture with domain separation
 - Built-in features: Authentication, State Management, Theming
 - Pre-integrated libraries: TailwindCSS, Prettier, ESLint, Husky
-- Demo: [angular-bb.vercel.app](https:/angular-bb.vercel.app)
+- Demo: [angular-bb.vercel.app](angular-bb.vercel.app)
 
 #### [[BE] Nest Bootstrap Boilerplate](https://github.com/namnguyen2k1/nest-bootstrap-boilerplate)
 
