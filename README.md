@@ -58,8 +58,8 @@
 <a style="margin-bottom: 10px; display: flex; gap: 10px" href="https://www.linkedin.com/in/nam-nguyen-26b942231">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
   <span style="font-weight: bold">Nam Nguyen</span>
-</a>
-
+</a> 
+<br/>
 <a style="display: flex; gap: 10px" href="mailto:nanam133hg@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
   <span style="font-weight: bold">nanam133hg@gmail.com</span>
